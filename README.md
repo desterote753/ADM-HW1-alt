@@ -6,4 +6,4 @@ problem02.ipynb contains the solutions to problem 2.
 
 The solutions are sorted in the reversed order they were done (latest to oldest), i.e. the same order as in the submissions.pdf.
 
-problem03.PNG shows (as an example) that I've solved problem 3. Unfortunately AWS hasn't saved my progress as far as I know.
+The folder problem03 contains the screenshots of my solved tasks. Unfortunately AWS seems to not have saved my progress.
